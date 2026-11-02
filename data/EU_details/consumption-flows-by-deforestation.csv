@@ -1,0 +1,122 @@
+producing_country_name,flow,consuming_region_name,deforestation_risk_embedded_in_consumption__ha
+Brazil,Brazil → Brazil,Brazil,1391162.0413957916
+All other countries,All other countries → All other countries,All other countries,848807.5000006872
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → Bolivia,Bolivia,185846.67675695888
+Democratic Republic of the Congo,Democratic Republic of the Congo → All other countries,All other countries,181614.76291097645
+Democratic Republic of the Congo,Democratic Republic of the Congo → DR Congo,DR Congo,152418.9449038787
+Colombia,Colombia → Colombia,Colombia,112124.10527693138
+Nigeria,Nigeria → Nigeria,Nigeria,110937.07923452028
+Indonesia,Indonesia → All other countries,All other countries,90333.60445450598
+India,India → India,India,90311.86591562738
+Brazil,Brazil → All other countries,All other countries,89133.26538472396
+Côte d'Ivoire,Côte d'Ivoire → Cote d'Ivoire,Cote d'Ivoire,87172.75248099149
+All other countries,All other countries → United States of America,United States of America,85373.62133458038
+All other countries,All other countries → China,China,82971.21344655607
+Democratic Republic of the Congo,Democratic Republic of the Congo → China,China,82093.2141198431
+Côte d'Ivoire,Côte d'Ivoire → All other countries,All other countries,75131.28307196118
+Peru,Peru → All other countries,All other countries,69588.12131893016
+Mexico,Mexico → All other countries,All other countries,62434.68201524967
+Brazil,Brazil → China,China,59564.96650377399
+All other countries,All other countries → EU,EU,50468.62059709324
+Côte d'Ivoire,Côte d'Ivoire → EU,EU,36512.18780176168
+Democratic Republic of the Congo,Democratic Republic of the Congo → United States of America,United States of America,35374.52757995323
+Democratic Republic of the Congo,Democratic Republic of the Congo → EU,EU,28983.043549055143
+Brazil,Brazil → EU,EU,21734.260402359898
+Brazil,Brazil → United States of America,United States of America,20700.995991278796
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → All other countries,All other countries,19254.49767305313
+Indonesia,Indonesia → India,India,18683.94608494081
+Colombia,Colombia → All other countries,All other countries,18649.294529103154
+All other countries,All other countries → India,India,17810.627176549602
+India,India → All other countries,All other countries,16118.72649773117
+Indonesia,Indonesia → China,China,10840.367036012933
+Mexico,Mexico → United States of America,United States of America,9050.046909988003
+Côte d'Ivoire,Côte d'Ivoire → United States of America,United States of America,8852.163344975797
+Colombia,Colombia → United States of America,United States of America,8358.611635892237
+All other countries,All other countries → Brazil,Brazil,7970.133573074692
+Colombia,Colombia → EU,EU,6646.409452384409
+Indonesia,Indonesia → EU,EU,6152.779945268698
+Democratic Republic of the Congo,Democratic Republic of the Congo → India,India,6044.354778901285
+Peru,Peru → United States of America,United States of America,5679.511558017205
+Peru,Peru → EU,EU,5531.88229943001
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → United States of America,United States of America,5460.7689192735525
+Indonesia,Indonesia → United States of America,United States of America,4826.208441798527
+Peru,Peru → China,China,4562.5593903780655
+India,India → United States of America,United States of America,4308.3412331833
+Côte d'Ivoire,Côte d'Ivoire → India,India,4241.597216139183
+Nigeria,Nigeria → All other countries,All other countries,4195.966609385009
+Côte d'Ivoire,Côte d'Ivoire → China,China,4181.174887884354
+Brazil,Brazil → India,India,3591.105659836715
+India,India → EU,EU,3370.3525454029436
+Democratic Republic of the Congo,Democratic Republic of the Congo → Bolivia,Bolivia,2521.906809095791
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → EU,EU,2362.5912933124455
+Democratic Republic of the Congo,Democratic Republic of the Congo → Brazil,Brazil,2247.4170886064526
+All other countries,All other countries → Colombia,Colombia,2161.5021773041276
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → Colombia,Colombia,2033.189453345342
+Democratic Republic of the Congo,Democratic Republic of the Congo → Nigeria,Nigeria,1963.3890266242763
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → China,China,1888.3084624116914
+Colombia,Colombia → Brazil,Brazil,1773.2395948391372
+India,India → China,China,1571.1271467019596
+Brazil,Brazil → Cote d'Ivoire,Cote d'Ivoire,1554.5208988346558
+Democratic Republic of the Congo,Democratic Republic of the Congo → Cote d'Ivoire,Cote d'Ivoire,1543.4496578227217
+Nigeria,Nigeria → EU,EU,1467.330468517554
+All other countries,All other countries → DR Congo,DR Congo,1404.2608240122772
+Côte d'Ivoire,Côte d'Ivoire → Nigeria,Nigeria,1178.689179642134
+Brazil,Brazil → Colombia,Colombia,1100.0767924325696
+All other countries,All other countries → Nigeria,Nigeria,1088.4964478620204
+Côte d'Ivoire,Côte d'Ivoire → Brazil,Brazil,971.7165623147152
+All other countries,All other countries → Bolivia,Bolivia,932.3458977950518
+Peru,Peru → Bolivia,Bolivia,873.850618465042
+Nigeria,Nigeria → United States of America,United States of America,845.7868999454649
+Brazil,Brazil → Bolivia,Bolivia,824.4634454306431
+Peru,Peru → Brazil,Brazil,809.2985702681697
+Colombia,Colombia → China,China,718.170709270727
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → India,India,706.4928157703711
+All other countries,All other countries → Cote d'Ivoire,Cote d'Ivoire,703.8712620227698
+Côte d'Ivoire,Côte d'Ivoire → DR Congo,DR Congo,580.2936717020298
+Mexico,Mexico → EU,EU,578.7485424608203
+Peru,Peru → Colombia,Colombia,556.6919947932098
+Indonesia,Indonesia → Brazil,Brazil,518.761197912353
+Peru,Peru → India,India,445.89502311400054
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → Brazil,Brazil,425.06154896651276
+Nigeria,Nigeria → China,China,418.98358466518977
+Democratic Republic of the Congo,Democratic Republic of the Congo → Colombia,Colombia,398.3889687356833
+Indonesia,Indonesia → Nigeria,Nigeria,348.78969845914384
+India,India → Brazil,Brazil,289.21105217935076
+Colombia,Colombia → India,India,234.46209246903948
+Colombia,Colombia → Bolivia,Bolivia,184.4397658958572
+Brazil,Brazil → Nigeria,Nigeria,182.99734108320774
+Mexico,Mexico → China,China,154.28380158331956
+Nigeria,Nigeria → India,India,140.75473781600454
+Brazil,Brazil → DR Congo,DR Congo,102.62938141390995
+Mexico,Mexico → Colombia,Colombia,96.04217762768978
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → Cote d'Ivoire,Cote d'Ivoire,89.71931615442448
+Mexico,Mexico → Brazil,Brazil,80.31136411400695
+Colombia,Colombia → Cote d'Ivoire,Cote d'Ivoire,76.72083186800114
+Côte d'Ivoire,Côte d'Ivoire → Colombia,Colombia,65.70283621535579
+India,India → Nigeria,Nigeria,58.63013154679074
+India,India → Colombia,Colombia,52.20344931124331
+Indonesia,Indonesia → Cote d'Ivoire,Cote d'Ivoire,48.28582213860602
+India,India → DR Congo,DR Congo,46.36182949804076
+Côte d'Ivoire,Côte d'Ivoire → Bolivia,Bolivia,44.640580478402306
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → Nigeria,Nigeria,43.99978922138611
+Mexico,Mexico → India,India,43.254912201600064
+Nigeria,Nigeria → Brazil,Brazil,38.894908807681595
+Bolivia (Plurinational State of),Bolivia (Plurinational State of) → DR Congo,DR Congo,35.039162596213394
+Nigeria,Nigeria → Cote d'Ivoire,Cote d'Ivoire,33.80615733707088
+Indonesia,Indonesia → Colombia,Colombia,30.233247140029395
+Indonesia,Indonesia → DR Congo,DR Congo,28.713985429907773
+India,India → Cote d'Ivoire,Cote d'Ivoire,19.923089093722577
+Indonesia,Indonesia → Bolivia,Bolivia,18.012742041934448
+Colombia,Colombia → Nigeria,Nigeria,13.61333847532283
+Peru,Peru → Nigeria,Nigeria,11.43689283209488
+Nigeria,Nigeria → Bolivia,Bolivia,9.2197693342399
+Mexico,Mexico → Bolivia,Bolivia,8.721622861224331
+Nigeria,Nigeria → DR Congo,DR Congo,8.670585842840861
+Colombia,Colombia → DR Congo,DR Congo,7.122096763507663
+India,India → Bolivia,Bolivia,6.2460751797912355
+Peru,Peru → Cote d'Ivoire,Cote d'Ivoire,5.722227507176367
+Peru,Peru → DR Congo,DR Congo,5.483530425989367
+Mexico,Mexico → Nigeria,Nigeria,2.87997903959118
+Nigeria,Nigeria → Colombia,Colombia,2.8182964740763623
+Mexico,Mexico → Cote d'Ivoire,Cote d'Ivoire,1.5240059877177905
+Mexico,Mexico → DR Congo,DR Congo,1.0354756010607236
